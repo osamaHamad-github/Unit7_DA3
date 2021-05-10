@@ -1,0 +1,20 @@
+#title,
+#paragraph,
+#answer {
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkblue;
+}
+
+#enter {
+  color: darkblue;
+  border: 2px solid darkblue;
+  background-color: lightskyblue;
+}
+
+body {
+  background-color: lightslategray;
+}
+
+#input {
+  border: 2px solid darkblue;
+}
