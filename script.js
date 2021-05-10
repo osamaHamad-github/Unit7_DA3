@@ -12,7 +12,7 @@ function movieByAge (age) {
 
 function rateMovie () {
   const age = parseInt(document.getElementById('input').value)
-  let answer = document.getElementById('answer')
+  const answer = document.getElementById('answer')
 
   answer.innerText = movieByAge(age)
 }
